@@ -14,13 +14,13 @@ body {
 
 h1 {
     color: hsl(218, 44%, 22%);
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     margin-top: 25px;
 }
 
 p {
     color: hsl(220, 15%, 55%);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
 }
 
